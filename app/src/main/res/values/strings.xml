@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestOss</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_select">选择图片</string>
+    <string name="bt_upload">上传图片</string>
+</resources>
